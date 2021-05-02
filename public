@@ -8,7 +8,7 @@
 
 body {
   font: 80% verdana, sans-serif;
-  background: #fff;
+  background: #ffff00;
   padding: 1em 2em;
 }
 
